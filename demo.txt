@@ -1,1 +1,2 @@
 We are learning How to use Git
+Git is intresting
